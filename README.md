@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hensostash
-- 👀 I’m interested in AI Deep Learning Reenforcment
+- 👀 I’m interested in AI Deep Learning Reinforcement
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me LinkedIn
