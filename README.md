@@ -65,22 +65,22 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=WilliamRagstad&theme=dracula&no-frame=true&margin-w=15"/>
   </a>
-  <a href="https://app.daily.dev/WilliamR">
-    <img src="https://github.com/WilliamRagstad/WilliamRagstad/blob/devcard/devcard.svg" width="305" alt="William Råagstad's Dev Card" align="right"/>
+  <a href="https://app.daily.dev/hensostash">
+    <img src="https://github.com/WilliamRagstad/hensostash/blob/devcard/devcard.svg" width="305" alt="William Råagstad's Dev Card" align="right"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=WilliamRagstad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hensostash&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hensostash&langs_count=10&hide_border=true&layout=compact&theme=dracula"/>
   <a href="https://git.io/streak-stats">
-      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=WilliamRagstad&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=hensostash&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   </a>
-  <img alt="Metrics" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/github-metrics.svg" width="49%">
-  <img alt="Contributions calendar" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/isometric.svg" width="49%">
-  <img alt="Habits" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/habits.svg" width="49%">
-  <img alt="Achievements" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/achievements.svg">
+  <img alt="Metrics" src="https://raw.githubusercontent.com/hensostash/WilliamRagstad/metrics/github-metrics.svg" width="49%">
+  <img alt="Contributions calendar" src="https://raw.githubusercontent.com/hensostash/WilliamRagstad/metrics/isometric.svg" width="49%">
+  <img alt="Habits" src="https://raw.githubusercontent.com/hensostash/hensostash/metrics/habits.svg" width="49%">
+  <img alt="Achievements" src="https://raw.githubusercontent.com/hensostash/hensostash/metrics/achievements.svg">
   <!-- Footer -->
   <br/><br/>
   <div align="center">
-    <a href="https://profile-summary-for-github.com/user/WilliamRagstad">GitHub Summary</a>
+    <a href="https://profile-summary-for-github.com/user/hensostash">GitHub Summary</a>
   </div>
 </details>
 
